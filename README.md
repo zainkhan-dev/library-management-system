@@ -35,7 +35,7 @@ LIBRARY MANAGEMENT SYSTEM/
 ├── library.py           # Library class and operations
 ├── book.py              # Book class
 ├── file_handler.py      # Save and load data
-├── library_data.json            # Stores library data
+├── library_data.json    # Stores library data
 └── README.md
 ```
 
